@@ -1,0 +1,22 @@
+.coloum1 {
+  display: flex;
+  margin-right: 23px;
+  height: 90px;
+  width: 4px;
+}
+.btn {
+  margin-bottom: 16px;
+  margin-top: 16px;
+  background-color: rgb(227, 217, 23);
+  border-radius: 10px;
+}
+.coloum2 {
+  display: flex;
+  margin-right: 23px;
+  height: 90px;
+  width: 4px;
+  
+}
+.btn-light{
+    background-color: rgb(225, 110, 56);
+}
